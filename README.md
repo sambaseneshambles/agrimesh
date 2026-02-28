@@ -32,22 +32,5 @@ AgriMesh is a decentralized agritech platform designed to deliver real-time soil
 - [YouTube](https://www.youtube.com/@AgriMesh-MMPS)
 - [WhatsApp](https://wa.me/221772954349)
 
-## 📦 Getting Started
-
-1. **Install Dependencies**:
-   ```bash
-   npm install
-   ```
-
-2. **Run Development Server**:
-   ```bash
-   npm run dev
-   ```
-
-3. **Build for Production**:
-   ```bash
-   npm run build
-   ```
-
 ---
 *Built by ESP Telecommunications Students • Dakar, Senegal*
